@@ -23,7 +23,7 @@ it with a `script` tag.
 <!doctype html>
 <html>
   <head>
-    <script src="//samsara-cdn.appspot.com/nbl.min.js"></script>
+    <script src="//nbl-cdn.appspot.com/nbl.min.js"></script>
 ```
 
 To use it as a Node module:
