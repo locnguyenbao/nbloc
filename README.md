@@ -1,5 +1,3 @@
-# samsara [![Build Status](https://secure.travis-ci.org/luciferous/samsara.png?branch=master)](http://travis-ci.org/luciferous/samsara)
-
 *To flow on, to perpetually wander, to pass through states of existence.*
 
 ```coffeescript
@@ -16,33 +14,29 @@ countDown = Proc( print 3 ).then( pause ).
 runProc countDown, ->
 ```
 
-## Examples
-
-- [Drag and drop](http://lcfrs.org/samsara/docs/dragndrop.html)
-
 ## Install
 
-It's not necessary to install samsara to use it in a web browser, just link to
+It's not necessary to install nbl to use it in a web browser, just link to
 it with a `script` tag.
 
 ```html
 <!doctype html>
 <html>
   <head>
-    <script src="//samsara-cdn.appspot.com/samsara.min.js"></script>
+    <script src="//samsara-cdn.appspot.com/nbl.min.js"></script>
 ```
 
 To use it as a Node module:
 
 ```sh
-$ npm install samsara
+$ npm install nbl
 ```
 
 ## Contribute
 
 ```sh
-$ git clone git://github.com/luciferous/samsara.git
-$ cd samsara
+$ git clone git://github.com/nbl.git
+$ cd nbl
 $ npm install --dev
 $ make dist
 ```
