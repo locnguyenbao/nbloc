@@ -10,7 +10,7 @@
   "main": "./lib/samsara.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luciferous/samsara.git"
+    "url": "https://github.com/locnguyenbao/nbl.git"
   },
   "keywords": [
     "arrow",
