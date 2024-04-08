@@ -1,13 +1,13 @@
 {
-  "name": "samsara",
+  "name": "nbl",
   "version": "0.0.2",
-  "author": "Neuman Vong <neuman@ashmoremusic.com>",
+  "author": "nbl <nbl.com>",
   "description": "Arrows",
   "scripts": {
     "prepublish": "make lib",
     "test": "make test"
   },
-  "main": "./lib/samsara.js",
+  "main": "./lib/nbl.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/locnguyenbao/nbl.git"
