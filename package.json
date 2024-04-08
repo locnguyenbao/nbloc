@@ -7,7 +7,6 @@
     "prepublish": "make lib",
     "test": "make test"
   },
-  "main": "./lib/nbl.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/locnguyenbao/nbl.git"
