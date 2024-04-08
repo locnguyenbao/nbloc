@@ -1,7 +1,7 @@
 *To flow on, to perpetually wander, to pass through states of existence.*
 
 ```coffeescript
-{ Cont , Proc , runProc } = require "samsara"
+{ Cont , Proc , runProc } = require "nbl"
 
 print = (x) -> -> console.log x
 pause = Cont (_, r) -> setTimeout r, 1000
