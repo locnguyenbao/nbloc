@@ -29,14 +29,14 @@ it with a `script` tag.
 To use it as a Node module:
 
 ```sh
-$ npm install nbl
+$ npm install nbloc
 ```
 
 ## Contribute
 
 ```sh
 $ git clone git://github.com/nbl.git
-$ cd nbl
+$ cd nbloc
 $ npm install --dev
 $ make dist
 ```
