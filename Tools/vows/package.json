@@ -1,0 +1,19 @@
+{
+  "name": "vows",
+  "version": "0.7.0",
+  "description": "vows",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/locnguyenbao/vows.git",
+    "directory": "Tools/vows"
+  },
+  "main": "index.js",
+  "author": "nbl",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "vows": "0.7.0"
+  }
+}
