@@ -1,0 +1,19 @@
+{
+  "name": "expresso",
+  "version": "0.9.0",
+  "description": "expresso",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/locnguyenbao/expresso.git",
+    "directory": "Tools/expresso"
+  },
+  "main": "index.js",
+  "author": "nbl",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "expresso": "0.9.0"
+  }
+}
