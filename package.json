@@ -16,7 +16,12 @@
     "async"
   ],
   "dependencies": {
-    "protocol": "git://github.com/locnguyenbao/nbloc.git#v2.0"
+    "fs-util": "0.3.7",
+    "coffee-script" : "1.3.x",
+    "uglify-js": "1.1.x",
+    "optimist": "0.2.x",
+    "colors": "0.5.x",
+    "vows" : "0.7.x"
   },
   "devDependencies": {
     "expresso": "0.9.x",
