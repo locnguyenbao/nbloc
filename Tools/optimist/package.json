@@ -1,0 +1,19 @@
+{
+  "name": "optimist",
+  "version": "0.2.0",
+  "description": "optimist",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/locnguyenbao/optimist.git",
+    "directory": "Tools/optimist"
+  },
+  "main": "index.js",
+  "author": "nbl",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "optimist": "0.2.0"
+  }
+}

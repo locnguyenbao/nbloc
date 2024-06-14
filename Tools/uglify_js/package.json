@@ -1,0 +1,19 @@
+{
+  "name": "uglify_js",
+  "version": "1.1.0",
+  "description": "uglify_js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/locnguyenbao/uglify_js.git",
+    "directory": "Tools/uglify_js"
+  },
+  "main": "index.js",
+  "author": "nbl",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "uglify_js": "1.1.0"
+  }
+}
