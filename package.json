@@ -1,6 +1,6 @@
 {
   "name": "nbloc",
-  "version": "0.0.2",
+  "version": "v2.0",
   "author": "nbl <nbl.com>",
   "description": "Arrows",
   "scripts": {
@@ -16,7 +16,7 @@
     "async"
   ],
   "dependencies": {
-    "protocol": "git://github.com/Gozala/protocol.git#v0.3.1"
+    "protocol": "git://github.com/locnguyenbao/nbloc.git#v2.0"
   },
   "devDependencies": {
     "expresso": "0.9.x",

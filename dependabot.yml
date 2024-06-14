@@ -1,0 +1,28 @@
+# `dependabot.yml` file with
+# customized npm configuration
+
+version: 2
+updates:
+  # Keep npm dependencies up to date
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    # Raise all npm pull requests with custom labels
+    labels:
+      - "npm dependencies"
+      - "triage-board"
+
+    # Keep Docker dependencies up to date
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    # Raise pull requests for Docker version updates
+    # against the "develop" branch. The Docker configuration
+    # no longer affects security update pull requests.
+    target-branch: "develop"
+    # Use custom labels on pull requests for Docker version updates
+    labels:
+      - "Docker dependencies"
+      - "triage-board"
