@@ -4,7 +4,7 @@
   "description": "uglify_js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/locnguyenbao/uglify_js.git",
+    "url": "git+https://github.com/locnguyenbao/uglify_js.git",
     "directory": "Tools/uglify_js"
   },
   "main": "index.js",

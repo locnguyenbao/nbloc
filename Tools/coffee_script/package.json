@@ -4,7 +4,7 @@
   "description": "coffee_script",
   "repository": {
     "type": "git",
-    "url": "https://github.com/locnguyenbao/coffee_script.git",
+    "url": "git+https://github.com/locnguyenbao/coffee_script.git",
     "directory": "Tools/coffee_script"
   },
   "main": "index.js",

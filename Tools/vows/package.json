@@ -4,7 +4,7 @@
   "description": "vows",
   "repository": {
     "type": "git",
-    "url": "https://github.com/locnguyenbao/vows.git",
+    "url": "git+https://github.com/locnguyenbao/vows.git",
     "directory": "Tools/vows"
   },
   "main": "index.js",

@@ -4,7 +4,7 @@
   "description": "expresso",
   "repository": {
     "type": "git",
-    "url": "https://github.com/locnguyenbao/expresso.git",
+    "url": "git+https://github.com/locnguyenbao/expresso.git",
     "directory": "Tools/expresso"
   },
   "main": "index.js",
