@@ -4,7 +4,7 @@
   "description": "fs_ultil",
   "repository": {
     "type": "git",
-    "url": "https://github.com/locnguyenbao/fs_ultil.git",
+    "url": "git+https://github.com/locnguyenbao/fs_ultil.git",
     "directory": "Tools/fs_ultil"
   },
   "main": "index.js",

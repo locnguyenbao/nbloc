@@ -4,7 +4,7 @@
   "description": "optimist",
   "repository": {
     "type": "git",
-    "url": "https://github.com/locnguyenbao/optimist.git",
+    "url": "git+https://github.com/locnguyenbao/optimist.git",
     "directory": "Tools/optimist"
   },
   "main": "index.js",

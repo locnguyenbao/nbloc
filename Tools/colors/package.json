@@ -4,7 +4,7 @@
   "description": "colors",
   "repository": {
     "type": "git",
-    "url": "https://github.com/locnguyenbao/colors.git",
+    "url": "git+https://github.com/locnguyenbao/colors.git",
     "directory": "Tools/colors"
   },
   "main": "index.js",
